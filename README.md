@@ -66,7 +66,7 @@ The design tracks hours, minutes, and seconds using cascaded counters and displa
 
 ## Waveform
 
-![RTC Waveform](waveform.jpeg)
+![RTC Waveform](rtc_waveform.png)
 
 ---
 
